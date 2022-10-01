@@ -30,3 +30,13 @@ print(False or False)
 print (not False)
 s='coffee'
 print(s[0:5])
+
+s2='good'
+print(s2*5)
+
+print('ad' >'ac')
+print(s2[-1])
+print(s2[-2])
+print(s2[-3])
+print(s2[-4])
+
